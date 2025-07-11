@@ -16,8 +16,8 @@ This is a FastAPI-based microservice that scrapes product listings from Swiggy I
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/swiggy-instamart-api.git
-   cd swiggy-instamart-api
+   git clone https://github.com/krish6388/SwiggyFastAPIScraper.git
+   cd swiggy_scraper
    ```
 
 2. **Create and activate virtual environment (optional but recommended)**  
