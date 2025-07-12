@@ -1,4 +1,3 @@
-# main.py
 from fastapi import FastAPI, Query
 from fastapi_cache import FastAPICache
 from fastapi_cache.backends.inmemory import InMemoryBackend
